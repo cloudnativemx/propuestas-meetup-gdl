@@ -13,6 +13,7 @@ La única "restricción" es que el tema a presentar esté relacionado con el eco
 * Usuario de Twitter
 * Página personal o blog (si cuentas con uno)
 * Para qué mes tienes disponibilidad?
+* Pequeño BIO de tu carrera profesional
 
 Recuerda que tienes aproximadamente una hora para presentar tu tema.
 Encuentra los issues de este repo [aquí](https://github.com/cloudnativemx/propuestas-meetup-gdl/issues).
