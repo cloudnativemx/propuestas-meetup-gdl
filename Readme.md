@@ -1,5 +1,4 @@
 ![Cloud Native image](https://secure.meetupstatic.com/photos/event/1/6/0/e/highres_483365646.jpeg)
-# Cloud Native Guadalajara ☁️
 ## Propuestas de charla para meetup
 -----------------------------------
 
