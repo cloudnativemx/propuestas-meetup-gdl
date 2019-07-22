@@ -29,8 +29,8 @@ Como parte de nuestro meetup y comunidad, fomentamos el respeto entre todos(as) 
 Por favor, consideralo también dentro de tu presentación.
 
 ### Evento 🍻
-La fecha, hora y lugar del evento, será publicado en nuestra página de meetup:
-https://www.meetup.com/cloud-native-guadalajara/
+* La fecha, hora y lugar del evento, será publicado en nuestra (página de meetup)[https://www.meetup.com/cloud-native-guadalajara/]
+* Lo único que debes traer es tu computadora, un adaptador HDMI y muchas ganas de compartir.
 
 ### Organizadores 📩
 No dudes en contactarnos para cualquier pregunta o comentario por Twitter
