@@ -16,6 +16,7 @@ La única "restricción" es que el tema a presentar esté relacionado con el eco
 * Para qué mes tienes disponibilidad?
 
 Recuerda que tienes aproximadamente una hora para presentar tu tema.
+Encuentra los issues de este repo [aquí](https://github.com/cloudnativemx/propuestas-meetup-gdl/issues).
 
 ### Consideraciones antes de tu charla 📖
 * Lo ideal es preparar tus slides y demo con anticipación a tu charla.
