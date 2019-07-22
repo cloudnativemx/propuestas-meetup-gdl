@@ -1,6 +1,5 @@
 ![Cloud Native image](https://secure.meetupstatic.com/photos/event/1/6/0/e/highres_483365646.jpeg)
 ## Propuestas de charla para meetup 🎉
------------------------------------
 
 Nos reunimos de forma presencial una vez al bimestre y una vez de forma virtual. 📢
 Deja tu propuesta aquí si te gustaría participar presentando un tema en cualquiera de los dos eventos.
