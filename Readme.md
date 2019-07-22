@@ -6,7 +6,7 @@ Deja tu propuesta aquí si te gustaría participar presentando un tema en cualqu
 La única "restricción" es que el tema a presentar esté relacionado con el ecosistema de Cloud Native.
 
 ### Formato para las propuestas 🎤
-* Titulo de la charla
+* Título de la charla
 * Resumen de la charla
 * Tipo de evento: (presencial, virtual o ambos)
 * Nombre del presentador
@@ -33,6 +33,6 @@ https://www.meetup.com/cloud-native-guadalajara/
 
 ### Organizadores 📩
 No dudes en contactarnos para cualquier pregunta o comentario por Twitter
-* [Domingo Suares](https://twitter.com/domix)
+* [Domingo Suarez](https://twitter.com/domix)
 * [Carlos Sedano](https://twitter.com/weirderror)
 * [Carlos Salazar](https://twitter.com/chuucksc)
