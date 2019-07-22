@@ -1,5 +1,5 @@
 ![Cloud Native image](https://secure.meetupstatic.com/photos/event/1/6/0/e/highres_483365646.jpeg)
-## Propuestas de charla para meetup
+## Propuestas de charla para meetup 🎉
 -----------------------------------
 
 Nos reunimos de forma presencial una vez al bimestre y una vez de forma virtual. 📢
@@ -31,8 +31,8 @@ Por favor, consideralo también dentro de tu presentación.
 La fecha, hora y lugar del evento, será publicado en nuestra página de meetup:
 https://www.meetup.com/cloud-native-guadalajara/
 
-### Organizadores 
-No dudes en contactarnos para cualquier pregunta o comentario:
+### Organizadores 📩
+No dudes en contactarnos para cualquier pregunta o comentario por Twitter
 * [Domingo Suares](https://twitter.com/domix)
 * [Carlos Sedano](https://twitter.com/weirderror)
 * [Carlos Salazar](https://twitter.com/chuucksc)
